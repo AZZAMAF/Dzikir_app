@@ -21,7 +21,7 @@
         android:text="@string/txt_sunnah_qauliyah"
         android:textStyle="bold"
         android:textSize="24sp"
-        android:textColor="@color/blue"/>
+        android:textColor="@color/morning_blue"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_qauliyah_shalat"
